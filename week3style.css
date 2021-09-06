@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.navbar{
+
+border: 2px;
+background-color:#F4E0E0;
+color: #856F6F ;
+}
+body{
+	background-color: #FD6A6A;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:black; 
+}
+
+.center{
+	width: 90%;
+	background-color: black;
+	padding-bottom:40px;
+
+}
+.container
+{
+	background-color: #872525 ;
+}
+.text-center{
+	font-size: 30px;
+}
+h1{
+	color: black;
+	padding-bottom: 20px;
+	font-size: 35px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: black;
+}
+.navbar-brand{
+	color: black;
+font-size: 40px;	
+}
